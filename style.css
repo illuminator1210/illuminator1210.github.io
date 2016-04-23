@@ -24,6 +24,9 @@ li a:hover {
 	text-decoration-color: #ABE188;
 	font-weight: bold;
 }
+.resize{
+	width: 1000px
+		}
 .solids {
 	background-color: #FFF5B2;
 	filter: alpha(opacity=60);
