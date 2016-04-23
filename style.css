@@ -2,6 +2,7 @@ body {
 	background-image: url(images/index.jpg);
 	background-position: center;
 	background-size: cover;
+	color: fff;
 }
 nav ul {
 	background-color: #FFF5B2;
@@ -22,5 +23,26 @@ li a:hover {
 	text-decoration: underline;
 	text-decoration-color: #ABE188;
 	font-weight: bold;
+}
+.solids {
+	background-color: #FFF5B2;
+	filter: alpha(opacity=60);
+	color: black;
+	width: auto;
+	text-align: center;
+	border-style: double;
+	border-width: medium;
+	border-color: yellow;
+	font-size: 25px;
+	padding: auto;
+}
+.solid {
+	background-color: #FFF5B2;
+	color: 000;
+	font-size: 35px;
+	 border-style: dotted solid;
+	 padding: auto;
+	 width: auto;
+
 }
 
