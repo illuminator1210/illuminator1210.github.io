@@ -25,7 +25,8 @@ li a:hover {
 	font-weight: bold;
 }
 .resize{
-	width: 1000px
+	width: 1000px;
+	padding-left:25%;
 
 		}
 .solid {
