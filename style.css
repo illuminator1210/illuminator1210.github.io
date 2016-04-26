@@ -45,37 +45,24 @@ section {
 	filter: alpha(opacity=60);
 	color: black;
 	width: 65%;
-	height: 50px
 	text-align: center;
 	border-style: double;
 	border-width: medium;
 	border-color: yellow;
 	font-size: 25px;
-	padding: 50px;
-	float: left;
 	position: relative;
 }
-.center {
-	width: 55%;
-	padding: 0px;
-	float:left;
-	padding-left: 500px;
 
-}
 aside {
 	background-color: #FFF5B2;
 	filter: alpha(opacity=60);
 	color: black;
-	width: 30%;
+	width: 1240px;
 	text-align: center;
 	border-style: double;
 	border-width: medium;
 	border-color: yellow;
 	font-size: 25px;
-	padding: 5%;
-	height: auto;
-	float: right;
-	position: relative;
 }
 .grow:hover
 {
@@ -144,8 +131,10 @@ figure:before {
 }
 figure:hover:before {
   opacity: 0;
-}0
+}
 footer {
-	bottom: 0;
-	position: relative;
+	padding: auto;
+	background-color: 000;
+	color: fff;
+	text-align: center;
 }
