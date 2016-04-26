@@ -53,6 +53,7 @@ section {
 	font-size: 25px;
 	padding: 50px;
 	float: left;
+	position: relative;
 }
 .center {
 	width: 55%;
@@ -74,6 +75,7 @@ aside {
 	padding: 5%;
 	height: auto;
 	float: right;
+	position: relative;
 }
 .grow:hover
 {
@@ -142,4 +144,8 @@ figure:before {
 }
 figure:hover:before {
   opacity: 0;
+}0
+footer {
+	bottom: 0;
+	position: relative;
 }
