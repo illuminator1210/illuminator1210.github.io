@@ -134,7 +134,7 @@ figure:hover:before {
 }
 footer {
 	padding: auto;
-	background-color: 000;
-	color: fff;
+	background-color: black;
+	color: white;
 	text-align: center;
 }
